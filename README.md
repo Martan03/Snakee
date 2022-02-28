@@ -12,8 +12,8 @@ Snake game where you can play or let play a computer using Pathfinding algorithm
 
 ## Main menu
 
+- two game modes: Player game, Pathfinding game
 ![image](https://user-images.githubusercontent.com/46300167/156005821-2d44bf24-8bbd-47b1-923d-456ad4df7d13.png)
-- two game mode: Player game, Pathfinding game
 
 ## Player game
 
